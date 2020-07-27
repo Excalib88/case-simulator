@@ -1,0 +1,8 @@
+.drop-hero-block {
+    float:left;
+    width: 240px;
+    height: 180px;
+    clip-path: polygon(85% 1%, 100% 50%, 85% 100%, 0% 100%, 15% 50%, 0% 0%);
+    background: rgb(21,0,36);
+    background: linear-gradient(90deg, rgba(21,0,36,1) 0%, rgba(82,9,121,1) 70%, rgba(162,0,255,1) 100%);
+}
